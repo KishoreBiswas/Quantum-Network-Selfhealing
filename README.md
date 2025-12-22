@@ -1,44 +1,37 @@
 # Quantum-Enhanced AI Self-Healing Network
 
-## Project Overview
-This repository contains the work for our thesis project on a Quantum-Enhanced AI Self-Healing Network.  
-Phase 0 focuses on setting up the development environment.
+**Thesis Project** – Quantum-enhanced AI for autonomous network healing  
+**Phase 0: Development Environment Setup** – 100% Complete (December 2025)
 
 ## Team Members
 - Kishore Biswas (Roll: 2263, Technical Writer)
-- Shovon (Roll: 2243, Data Analyst/Tester)
-- Topu (Roll: )
+- Poritosh Dey (Person 1, Lead Researcher)
+- Person 3 (Roll: 2243, Data Analyst/Tester)
+- Shovon
+- Topu
 
+## Phase 0 Documentation (All Reports)
 
-## Phase 0 Documentation
-Full setup guide is available in [2263_Phase_0_-2.pdf](2263_Phase_0_-2.pdf).  
-It covers:
-- Prerequisites (Ubuntu 24.04 LTS, VirtualBox, Python 3.12)
-- VM and Mininet setup (see 2243_Phase_0.pdf)
-- Installing Python and virtualenv
-- Installing packages via pip (requirements.txt)
-- Installing simulators (Qiskit Aer, Cirq, Mininet)
-- Verification steps
+All team members completed their assigned tasks. The development environment (Ubuntu VM, Mininet, Python 3.10+, virtualenv, simulators) is fully set up.
 
-## How to Set Up Locally
-1. Clone this repo:  
-   `git clone https://github.com/YOUR_USERNAME/quantum-network-selfhealing.git`
+| Contributor              | Role                          | Document                                                                                           | Main Focus                                                     |
+|--------------------------|-------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Kishore Biswas     | Technical Writer              |  [docs/2263_Phase_0_-2.pdf](docs/2263_Phase_0_-2.pdf)                                              | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc.   |
+| Poritosh Dey             | Lead Researcher               | [docs/Poritosh Dey_Phase_0_Documentation-2.pdf](docs/Poritosh%20Dey_Phase%200_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup            |
+| Shovon                   | Data Analyst/Tester           | [docs/2243_Phase_0-2.pdf](docs/2243_Phase_0-2.pdf)                                                 |    VirtualBox VM creation, Mininet install & tests             |
 
-2. Create virtual environment:  
-   `python -m venv venv`
+Click the links above to view the PDFs directly on GitHub.
 
-3. Activate it:  
-   - Windows: `venv\Scripts\activate`  
-   - Linux/macOS: `source venv/bin/activate`
+**Status:** Phase 0 is fully documented and complete – ready for Phase 1!
 
-4. Install dependencies:  
-   `pip install -r requirements.txt`
+## How to Clone & Set Up Locally
+```bash
+git clone https://github.com/KishoreBiswas/quantum-network-selfhealing.git
+cd quantum-network-selfhealing
 
-5. Verify:  
-   `python -c "import qiskit; print(qiskit.__version__)"`  
-   (should show 1.2.0)
+# Create virtual environment (as documented)
+python -m venv venv
+venv\Scripts\activate          # Windows
+# or source venv/bin/activate  # Linux/macOS
 
-## Next Steps
-Proceed to Phase 1 after verification.
-
-For complete details, see the PDF file.
+# (In Phase 1 we'll add requirements.txt)
