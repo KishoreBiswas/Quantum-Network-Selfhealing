@@ -17,9 +17,9 @@ The development environment (Ubuntu VM, Mininet, Python 3.10+, virtualenv, simul
 
 | Person   | Name                  | Role                          | Document                                                                 | Main Focus                                      |
 |----------|-----------------------|-------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
-| Person 1 | Poritosh Dey          | Lead Researcher              | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Poritosh%20Dey_Phase%200_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup |
-| Person 2 | Kishore Biswas (2263) | Technical Writer             | [docs/2263_Phase_0_-2.pdf](docs/2263_Phase_0_-2.pdf)                    | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc. |
-| Person 3 | Shovon (Roll: 2243)   | Data Analyst/Tester          | [docs/2243_Phase_0-2.pdf](docs/2243_Phase_0-2.pdf)                      | VirtualBox VM creation, Mininet install & tests |
+| Person 1 | Poritosh Dey          | Lead Researcher              | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Phase0/Poritosh Dey_Phase 0_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup |
+| Person 2 | Kishore Biswas (2263) | Technical Writer             | [docs/2263_Phase_0_-2.pdf](docs/Phase0/2263_Phase_0_-2.pdf)                    | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc. |
+| Person 3 | Shovon (Roll: 2243)   | Data Analyst/Tester          | [docs/2243_Phase_0-2.pdf](docs/Phase0/2243_Phase_0.pdf)                      | VirtualBox VM creation, Mininet install & tests |
 
 Click the links above to view the PDFs directly on GitHub.
 
@@ -40,9 +40,9 @@ The team successfully set up the development environment (Ubuntu VM, Mininet, Py
 
 | Person | Name / Roll          | Role                        | Document Link                                                                                     | Main Focus                                                                 |
 |--------|----------------------|-----------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/2274_Poritosh_Dey_Phase1_Documentation.pdf](2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, quantum circuits, theoretical analysis           |
-| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/2263_Phase1_Documentation.pdf](2263_Phase1_Documentation.pdf)                           | Data pipeline documentation, preprocessing, QML specs, methodology draft  |
-| 3      | Roll 2243            | Data Analyst / Tester       | [docs/2243_Phase1_Implementation.pdf](2243_Phase1_Implementation.pdf)                         | Network simulations, QML implementation/training, metrics evaluation       |
+| 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/2274_Poritosh_Dey_Phase1_Documentation.pdf](docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, quantum circuits, theoretical analysis           |
+| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/2263_Phase1_Documentation.pdf](docs/Phase1/2263_Phase1_Documentation.pdf)                           | Data pipeline documentation, preprocessing, QML specs, methodology draft  |
+| 3      | Roll 2243            | Data Analyst / Tester       | [docs/2243_Phase1_Implementation.pdf](docs/Phase1/2243_Phase1_Implementation.pdf)                         | Network simulations, QML implementation/training, metrics evaluation       |
 **Key Highlights from Phase 1**:
 - Achieved high accuracy (up to 100% with classical models like Random Forest and SVM on synthetic data).
 - Used Mininet for realistic network emulation on Ubuntu 24.04.3 LTS.
