@@ -26,19 +26,11 @@ Click the links above to view the PDFs directly on GitHub.
 
 
 
-# Quantum-Enhanced AI Self-Healing Network
-
-Thesis Project – Quantum-enhanced AI for autonomous network self-healing
-
-**Current Status (as of January 20, 2026)**  
-- Phase 0: Development Environment Setup – 100% Complete (December 2025)  
-- Phase 1: Failure Detection & Prediction – 100% Complete (January 2026)
-
-## Phase 0: Development Environment Setup – 100% Complete
+## Phase 1: Failure Detection & Prediction – 100% Complete
 
 The team successfully set up the development environment (Ubuntu VM, Mininet, Python 3.10+, virtualenv, quantum simulators like Qiskit Aer, etc.).
 
-### Team Members (Phase 0)
+### Team Members (Phase 1)
 - **Person 1** – Poritosh Dey (Lead Researcher)  
 - **Person 2** – Kishore Biswas (Roll: 2263, Technical Writer)  
 - **Person 3** – Shovon (Roll: 2243, Data Analyst/Tester)
@@ -71,6 +63,7 @@ Modern networks face increasing complexity due to failures, security threats, an
 - Develop autonomous self-healing mechanisms.
 - Ensure security via quantum intrusion detection, GAN anomaly detection, blockchain auditing.
 - Integrate and demonstrate a fully functional self-healing system.
+
 ## Phase 2: Root Cause Analysis & Diagnosis – 100% Complete (January 2026)
 
 Phase 2 develops the Intelligent Root Cause Analysis (RCA) and Diagnosis module. It uses Quantum-Assisted Pattern Recognition (QAPR), Privacy-Preserving Federated Learning, and a Knowledge-Based Decision Engine to identify why failures occur (building on Phase 1 detection).
