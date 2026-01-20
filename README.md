@@ -17,7 +17,7 @@ The development environment (Ubuntu VM, Mininet, Python 3.10+, virtualenv, simul
 
 | Person   | Name                  | Role                          | Document                                                                 | Main Focus                                      |
 |----------|-----------------------|-------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
-| Person 1 | Poritosh Dey          | Lead Researcher              | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Phase0/Poritosh Dey_Phase 0_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup |
+| Person 1 | Poritosh Dey          | Lead Researcher              | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Phase0/2274_Poritosh_Dey_Phase0_Documentation.pdf) | Ubuntu system config, essential tools, Python setup |
 | Person 2 | Kishore Biswas (2263) | Technical Writer             | [docs/2263_Phase_0_-2.pdf](docs/Phase0/2263_Phase_0_-2.pdf)                    | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc. |
 | Person 3 | Shovon (Roll: 2243)   | Data Analyst/Tester          | [docs/2243_Phase_0-2.pdf](docs/Phase0/2243_Phase_0.pdf)                      | VirtualBox VM creation, Mininet install & tests |
 
