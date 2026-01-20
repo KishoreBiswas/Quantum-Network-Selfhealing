@@ -34,10 +34,9 @@ Phase 1 implements Quantum Machine Learning (QML) for detecting and predicting n
 
 | Person | Name / Roll          | Role                        | Document Link                                                                                     | Main Focus                                                                 |
 |--------|----------------------|-----------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf](docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, quantum circuits, theoretical analysis           |
-| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/Phase1/2263_Phase1_Documentation.pdf](docs/Phase1/2263_Phase1_Documentation.pdf)             | Data pipeline documentation, preprocessing, QML specs, methodology draft  |
-| 3      | Roll 2243            | Data Analyst / Tester       | [docs/Phase1/2243_Phase1_Implementation.pdf](docs/Phase1/2243_Phase1_Implementation.pdf)           | Network simulations, QML implementation/training, metrics evaluation       |
-
+| 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/2274_Poritosh_Dey_Phase1_Documentation.pdf](docs/2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, quantum circuits, theoretical analysis           |
+| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/2263_Phase1_Documentation.pdf](docs/2263_Phase1_Documentation.pdf)                           | Data pipeline documentation, preprocessing, QML specs, methodology draft  |
+| 3      | Roll 2243            | Data Analyst / Tester       | [docs/2243_Phase1_Implementation.pdf](docs/2243_Phase1_Implementation.pdf)                         | Network simulations, QML implementation/training, metrics evaluation       |
 **Key Highlights**:
 - High accuracy achieved (up to 100% with classical models on synthetic data).
 - Used Mininet for traffic simulation & failure injection.
