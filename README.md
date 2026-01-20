@@ -71,6 +71,28 @@ Modern networks face increasing complexity due to failures, security threats, an
 - Develop autonomous self-healing mechanisms.
 - Ensure security via quantum intrusion detection, GAN anomaly detection, blockchain auditing.
 - Integrate and demonstrate a fully functional self-healing system.
+## Phase 2: Root Cause Analysis & Diagnosis – 100% Complete (January 2026)
+
+Phase 2 develops the Intelligent Root Cause Analysis (RCA) and Diagnosis module. It uses Quantum-Assisted Pattern Recognition (QAPR), Privacy-Preserving Federated Learning, and a Knowledge-Based Decision Engine to identify why failures occur (building on Phase 1 detection).
+
+All Phase 2 reports are in [docs/Phase2/](docs/Phase2/)
+
+### Team Contributions
+
+| Person | Name / Roll          | Role                        | Document Link                                                                                           | Main Focus                                                                 |
+|--------|----------------------|-----------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/Phase2/2274_Poritosh_Dey_Phase2_Documentation.pdf](docs/Phase2/2274_Poritosh_Dey_Phase2_Documentation.pdf) | System architecture, QAPR design, federated learning, knowledge base & action mapping |
+| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/Phase2/2263_Phase2_Documentation.pdf](docs/Phase2/2263_Phase2_Documentation.pdf)                   | QAPR circuits/encodings, FL architecture, diagnosis workflows, methodology draft |
+| 3      | Roll 2243            | Data Analyst / Tester       | [docs/Phase2/2243_Phase2_Implementation.pdf](docs/Phase2/2243_Phase2_Implementation.pdf)                 | Implementation of 8 failure types, quantum models, federated learning across 5 nodes, evaluation (92.4–94.2% accuracy) |
+
+**Key Highlights**:
+- Diagnosis accuracy: 94.2% (quantum-assisted) vs 78.5% classical
+- MTTD reduced to 8.5 minutes (81% improvement)
+- Differential Privacy (ε=1.0, δ=10⁻⁵)
+- Supports 8 failure types and federated learning across 5 nodes
+
+**How to view PDFs**  
+Click any link above → GitHub shows preview or "Download" button.
 
 ## How to Clone & Set Up Locally
 
