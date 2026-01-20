@@ -44,19 +44,6 @@ The team successfully set up the development environment (Ubuntu VM, Mininet, Py
 - **Person 2** – Kishore Biswas (Roll: 2263, Technical Writer)  
 - **Person 3** – Shovon (Roll: 2243, Data Analyst/Tester)
 
-### Phase 0 Documentation (All Reports)
-
-| Person | Name / Roll          | Role                        | Document Link                                                                 | Main Focus                                      |
-|--------|----------------------|-----------------------------|-------------------------------------------------------------------------------|-------------------------------------------------|
-| 1      | Poritosh Dey         | Lead Researcher             | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Poritosh Dey_Phase 0_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup |
-| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/2263_Phase_0_-2.pdf](docs/2263_Phase_0_-2.pdf)                          | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet |
-| 3      | Shovon (2243)        | Data Analyst / Tester       | [docs/2243_Phase_0-2.pdf](docs/2243_Phase_0-2.pdf)                            | VirtualBox VM creation, Mininet install & tests |
-
-**Status**: Phase 0 is fully documented and complete – ready for Phase 1!
-
-## Phase 1: Failure Detection & Prediction – 100% Complete (January 2026)
-
-Phase 1 implements Quantum Machine Learning (QML) for detecting and predicting network failures. It includes Mininet simulations, data pipelines, model training (classical + quantum), preprocessing, feature engineering, and evaluations (e.g., 100% accuracy with Random Forest/SVM on synthetic data in some cases).
 
 ### Team Contributions
 
@@ -64,7 +51,7 @@ Phase 1 implements Quantum Machine Learning (QML) for detecting and predicting n
 |--------|----------------------|-----------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf](docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, quantum circuits & encoding, theoretical performance analysis |
 | 2      | Kishore Biswas (2263)| Technical Writer            | [docs/Phase1/2263_Phase1_Documentation.pdf](docs/Phase1/2263_Phase1_Documentation.pdf)             | Full data pipeline documentation, preprocessing & feature engineering, QML specs + diagrams, methodology draft |
-| 3      | Roll 2243            | Data Analyst / Tester       | [docs/Phase1/2243_Phase1_Implementation.pdf](docs/Phase1/2243_Phase1_Implementation.pdf)           | Network traffic simulation & failure injection, preprocessing pipeline, QML model training/evaluation (accuracy, F1, ROC), sandbox integration |
+| 3      | Shovon Roll 2243            | Data Analyst / Tester       | [docs/Phase1/2243_Phase1_Implementation.pdf](docs/Phase1/2243_Phase1_Implementation.pdf)           | Network traffic simulation & failure injection, preprocessing pipeline, QML model training/evaluation (accuracy, F1, ROC), sandbox integration |
 
 **Key Highlights from Phase 1**:
 - Achieved high accuracy (up to 100% with classical models like Random Forest and SVM on synthetic data).
