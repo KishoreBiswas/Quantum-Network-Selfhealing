@@ -18,7 +18,7 @@ The development environment (Ubuntu VM, Mininet, Python 3.10+, virtualenv, simul
 | Person   | Name                  | Role                          | Document                                                                 | Main Focus                                      |
 |----------|-----------------------|-------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
 | Person 1 | Poritosh Dey          | Lead Researcher              | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Poritosh%20Dey_Phase%200_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup |
-| Person 2 | Kishore Biswas (2263) | Technical Writer             | [docs/2263_Phase_0_-2.pdf](docs/2263_Phase_0_-2.pdf)                    | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc. |
+| Person 2 | Kishore Biswas (2263) | Technical Writer             | [docs/2263_Phase_0_-2.pdf]([docs/2263_Phase_0_-2.pdf](https://github.com/KishoreBiswas/Quantum-Network-Selfhealing/blob/6f2da1271a01e3259fd3b1142213dd4331b2b019/2263_Phase1_Documentation.pdf))                    | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc. |
 | Person 3 | Shovon (Roll: 2243)   | Data Analyst/Tester          | [docs/2243_Phase_0-2.pdf](docs/2243_Phase_0-2.pdf)                      | VirtualBox VM creation, Mininet install & tests |
 
 Click the links above to view the PDFs directly on GitHub.
