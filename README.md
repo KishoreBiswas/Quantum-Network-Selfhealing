@@ -1,19 +1,39 @@
-## Phase 1: Failure Detection & Prediction (January 2026)
-Status: ✅ 100% COMPLETE
+# Quantum-Enhanced AI Self-Healing Network
 
-Phase 1 focuses on detecting and predicting network failures using QML. It includes simulations, data pipelines, model training, and evaluations.
+**Thesis Project** – Quantum-enhanced AI for autonomous network healing  
+**Phase 0: Development Environment Setup** – 100% Complete (December 2025)
 
-### Team Contributions
-| Person | Name/Roll | Role | Document | Main Focus |
-|--------|-----------|------|----------|------------|
-| Person 1 | Poritosh Dey (2274) | Lead Researcher | [docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf](docs/Phase1/2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, circuits, theoretical analysis |
-| Person 2 | Kishore Biswas (2263) | Technical Writer | [docs/Phase1/2263_Phase1_Documentation.pdf](docs/Phase1/2263_Phase1_Documentation.pdf) | Data pipeline documentation, preprocessing, QML specs, methodology draft |
-| Person 3 | Roll 2243 | Data Analyst/Tester | [docs/Phase1/2243_Phase1_Implementation.pdf](docs/Phase1/2243_Phase1_Implementation.pdf) | Network simulations, QML implementation/training, metrics evaluation (e.g., 100% accuracy with RF/SVM) |
+## Team Members (Phase 0)
 
-### Key Highlights from Docs
-- Achieved high accuracy in failure detection (e.g., 100% with some models).
-- Used Mininet for simulations and Qiskit/Pennylane for quantum models.
+- **Person 1** – Poritosh Dey (Lead Researcher)  
+- **Person 2** – Kishore Biswas (Technical Writer)  
+- **Person 3** – Shovon (Data Analyst/Tester)  
 
-### Code & Artifacts
-- See [code/Phase1/](code/Phase1/) for scripts (e.g., QML models, simulations).
-- Dependencies: Updated in [requirements.txt](requirements.txt).
+
+## Phase 0 Documentation (All Reports)
+
+All team members successfully completed their assigned tasks.  
+The development environment (Ubuntu VM, Mininet, Python 3.10+, virtualenv, simulators) is fully set up and documented.
+
+| Person   | Name                  | Role                          | Document                                                                 | Main Focus                                      |
+|----------|-----------------------|-------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
+| Person 1 | Poritosh Dey          | Lead Researcher              | [docs/Poritosh Dey_Phase 0_Documentation-2.pdf](docs/Poritosh%20Dey_Phase%200_Documentation-2.pdf) | Ubuntu system config, essential tools, Python setup |
+| Person 2 | Kishore Biswas (2263) | Technical Writer             | [docs/2263_Phase_0_-2.pdf](docs/2263_Phase_0_-2.pdf)                    | Full setup guide: virtualenv, pip, Qiskit Aer, Mininet, etc. |
+| Person 3 | Shovon (Roll: 2243)   | Data Analyst/Tester          | [docs/2243_Phase_0-2.pdf](docs/2243_Phase_0-2.pdf)                      | VirtualBox VM creation, Mininet install & tests |
+
+Click the links above to view the PDFs directly on GitHub.
+
+**Status:** Phase 0 is fully documented and complete – ready for Phase 1!
+
+## How to Clone & Set Up Locally
+
+```bash
+git clone https://github.com/KishoreBiswas/quantum-network-selfhealing.git
+cd quantum-network-selfhealing
+
+python -m venv venv
+venv\Scripts\activate          # Windows
+# or
+source venv/bin/activate       # Linux/macOS
+
+# (requirements.txt will be added in Phase 1)
