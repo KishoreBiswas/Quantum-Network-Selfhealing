@@ -50,7 +50,7 @@ The team successfully set up the development environment (Ubuntu VM, Mininet, Py
 | Person | Name / Roll          | Role                        | Document Link                                                                                     | Main Focus                                                                 |
 |--------|----------------------|-----------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | 1      | Poritosh Dey (2274)  | Lead Researcher             | [docs/2274_Poritosh_Dey_Phase1_Documentation.pdf](docs/2274_Poritosh_Dey_Phase1_Documentation.pdf) | QML architecture design, quantum circuits, theoretical analysis           |
-| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/2263_Phase1_Documentation.pdf](docs/2263_Phase1_Documentation.pdf)                           | Data pipeline documentation, preprocessing, QML specs, methodology draft  |
+| 2      | Kishore Biswas (2263)| Technical Writer            | [docs/2263_Phase1_Documentation.pdf](2263_Phase1_Documentation.pdf)                           | Data pipeline documentation, preprocessing, QML specs, methodology draft  |
 | 3      | Roll 2243            | Data Analyst / Tester       | [docs/2243_Phase1_Implementation.pdf](2243_Phase1_Implementation.pdf)                         | Network simulations, QML implementation/training, metrics evaluation       |
 **Key Highlights from Phase 1**:
 - Achieved high accuracy (up to 100% with classical models like Random Forest and SVM on synthetic data).
